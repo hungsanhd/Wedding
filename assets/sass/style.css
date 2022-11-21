@@ -105,7 +105,7 @@ Version:        1.0.0
 /*---------------------------
 	Fonts
 ----------------------------*/
-@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800;900&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&amp;display=swap");
 @font-face {
   font-family: 'fleur';
   src: url("../fonts/fleur.woff2") format("woff2"), url("../fonts/fleur.woff") format("woff");
@@ -130,7 +130,7 @@ html {
 }
 
 body {
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #848892;
   background-color: #fff;
   font-size: 18px;
@@ -542,7 +542,7 @@ a.ui-button:active, .ui-button:active,
   line-height: 58px;
   margin: 0;
   position: relative;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #323232;
   display: inline-block;
   padding-bottom: 20px;
@@ -1203,7 +1203,7 @@ a.ui-button:active, .ui-button:active,
   margin: 0 0 1.3em;
   position: relative;
   text-transform: capitalize;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   padding-bottom: 20px;
   font-weight: 600;
 }
@@ -1338,7 +1338,7 @@ a.ui-button:active, .ui-button:active,
   font-size: 25px;
   font-weight: 500;
   margin-bottom: 15px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .blog-sidebar .about-widget p {
@@ -1445,7 +1445,7 @@ a.ui-button:active, .ui-button:active,
   font-weight: 500;
   line-height: 1.3em;
   margin: 0 0 0.3em;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 @media (max-width: 1199px) {
@@ -1633,7 +1633,7 @@ a.ui-button:active, .ui-button:active,
   position: relative;
   text-transform: none;
   text-transform: uppercase;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .wpo-shop-sidebar > .widget + .widget {
@@ -1759,7 +1759,7 @@ a.ui-button:active, .ui-button:active,
 
 .wpo-shop-sidebar .widget_product_categories,
 .wpo-shop-sidebar .woocommerce-widget-layered-nav {
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .wpo-shop-sidebar .widget_product_categories .product-categories a,
@@ -1847,7 +1847,7 @@ a.ui-button:active, .ui-button:active,
   font-size: 18px;
   font-weight: 600;
   color: #525252;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .widget_best-seller .wpo-best-seller-item .wpo-best-seller-text span {
@@ -4433,7 +4433,7 @@ wpo-hero-slider-s3
   font-size: 60px;
   line-height: 94px;
   margin-bottom: 10px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-transform: capitalize;
 }
 
@@ -6097,7 +6097,7 @@ wpo-hero-slider-s4
 
 .wpo-about-section .wpo-about-wrap .wpo-about-text h4,
 .wpo-about-section-s2 .wpo-about-wrap .wpo-about-text h4 {
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 35px;
   line-height: 51px;
@@ -6461,7 +6461,7 @@ wpo-hero-slider-s4
   margin: 0;
   font-weight: 400;
   color: #939580;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-align: center;
   font-family: "fleur";
 }
@@ -7205,7 +7205,7 @@ wpo-hero-slider-s4
   font-weight: 400;
   font-size: 22px;
   line-height: 32px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 @media (max-width: 1199px) {
@@ -7701,7 +7701,7 @@ wpo-hero-slider-s4
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 400;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-top .wpo-pricing-text h2 {
@@ -7717,7 +7717,7 @@ wpo-hero-slider-s4
       -ms-flex-pack: center;
           justify-content: center;
   margin-bottom: 0;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
 
@@ -7959,7 +7959,7 @@ wpo-hero-slider-s4
 .wpo-blog-section .wpo-blog-items .wpo-blog-grids .grid .wpo-blog-item .wpo-blog-content h2,
 .wpo-blog-section-s2 .wpo-blog-items .wpo-blog-grids .grid .wpo-blog-item .wpo-blog-content h2,
 .wpo-blog-section-s3 .wpo-blog-items .wpo-blog-grids .grid .wpo-blog-item .wpo-blog-content h2 {
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   margin-bottom: 0px;
   font-weight: 500;
   font-size: 34px;
@@ -11365,7 +11365,7 @@ wpo-hero-slider-s4
   max-width: 300px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-align: center;
   padding: 20px;
   -webkit-transition: all .3s;
@@ -11377,7 +11377,7 @@ wpo-hero-slider-s4
   font-size: 25px;
   line-height: 36px;
   text-align: center;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   margin-bottom: 10px;
 }
 
@@ -11972,7 +11972,7 @@ wpo-hero-slider-s4
   font-size: 80px;
   line-height: 116px;
   margin-bottom: 20px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 @media (max-width: 1200px) {
@@ -12043,7 +12043,7 @@ wpo-hero-slider-s4
 }
 
 .accordion-item h3 {
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 600;
 }
 
@@ -12320,7 +12320,7 @@ wpo-hero-slider-s4
   font-size: 30px;
   margin-bottom: 30px;
   font-weight: 500;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .wpo-p-details-section .process-wrap {
@@ -12337,7 +12337,7 @@ wpo-hero-slider-s4
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 10px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .wpo-p-details-section .process-wrap .process-item p {
@@ -12411,7 +12411,7 @@ wpo-hero-slider-s4
 .wpo-faq-section h4 {
   font-size: 30px;
   margin-bottom: 30px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
 
@@ -13865,7 +13865,7 @@ wpo-hero-slider-s4
   margin: 0;
   display: block;
   padding: 12px 20px 11px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   position: relative;
 }
 
@@ -14263,7 +14263,7 @@ wpo-hero-slider-s4
   text-align: center;
   background: #eee;
   padding: 20px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .team-info-wrap ul {
@@ -14276,7 +14276,7 @@ wpo-hero-slider-s4
 
 .exprience-wrap h2 {
   margin-bottom: 20px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 600;
 }
 
@@ -14571,7 +14571,7 @@ wpo-hero-slider-s4
   font-weight: 600;
   color: #333333;
   margin-bottom: 30px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .wpo-contact-area .quote-form {
@@ -15002,7 +15002,7 @@ wpo-hero-slider-s4
   font-size: 2.26667rem;
   line-height: 1.2em;
   margin: -0.27em 0 0.7em;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
 
@@ -15043,7 +15043,7 @@ wpo-hero-slider-s4
   text-decoration: underline;
   color: #525252;
   text-transform: capitalize;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
 
@@ -15383,7 +15383,7 @@ wpo-hero-slider-s4
   font-size: 2.33333rem;
   margin: -0.22em 0 0.7em;
   line-height: 1.3em;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
 
@@ -15824,7 +15824,7 @@ wpo-hero-slider-s4
   margin: 0 0 1em;
   text-transform: uppercase;
   letter-spacing: 3px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 @media (max-width: 991px) {
@@ -15869,7 +15869,7 @@ wpo-hero-slider-s4
 }
 
 .wpo-blog-single-section .comments-area .comments-meta h4 {
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   font-size: 1.2rem;
   color: #323232;
@@ -15885,7 +15885,7 @@ wpo-hero-slider-s4
   text-transform: none;
   display: inline-block;
   padding-left: 5px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -15903,7 +15903,7 @@ wpo-hero-slider-s4
   text-align: center;
   border-radius: 50px;
   display: inline-block;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-decoration: underline;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -15923,7 +15923,7 @@ wpo-hero-slider-s4
   margin: 0 0 1.5em;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 @media (max-width: 991px) {
@@ -16159,7 +16159,7 @@ wpo-hero-slider-s4
 
 .wpo-contact-pg-section form .submit-area .theme-btn, .wpo-contact-pg-section form .submit-area .view-cart-btn {
   border-radius: 0px;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
 
@@ -16234,7 +16234,7 @@ wpo-hero-slider-s4
   font-size: 30px;
   font-weight: 500;
   margin: 20px 0;
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .wpo-contact-pg-section .office-info .office-info-item .office-info-text p {
